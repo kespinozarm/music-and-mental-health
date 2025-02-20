@@ -1,5 +1,7 @@
 🎵 Music and Mental Health: Analyzing the connection
 
+
+
 📌 Project Overview
 
 This project explores the relationship between music listening habits and mental health. Using data analysis techniques, we assess how different factors—such as genre preference, listening frequency, and self-reported well-being—correlate with emotional and psychological states.
@@ -33,3 +35,11 @@ This project explores the relationship between music listening habits and mental
 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+📊 Presentation: https://kespinozarm.my.canva.site/
+
+
+
+
+
