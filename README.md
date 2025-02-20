@@ -39,7 +39,12 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 📊 Presentation: https://kespinozarm.my.canva.site/
 
+![image](https://github.com/user-attachments/assets/50e7ad6c-d2a6-49f1-8778-010c0f6b5d77)
 
 
+
+![image](https://github.com/user-attachments/assets/f60f5f63-1d54-4e59-8ede-b0e90d937f57)
+
+![image](https://github.com/user-attachments/assets/6ab008e5-ad3c-4635-a052-2253faa7949b)
 
 
