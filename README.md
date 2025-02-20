@@ -7,7 +7,7 @@
 This project explores the relationship between music listening habits and mental health. Using data analysis techniques, we assess how different factors—such as genre preference, listening frequency, and self-reported well-being—correlate with emotional and psychological states.
 
 🛠️ Technologies Used
-	•	Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+	•	Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy.stats)
 	•	Data Visualization (Power BI, Seaborn heatmaps, bar charts)
 
 📊 Key Findings
@@ -20,12 +20,11 @@ This project explores the relationship between music listening habits and mental
 
 📁 Music_Mental_Health_Analysis  
 │── 📄 README.md  
-│── 📁 data/                  # Raw and processed datasets  
-│── 📁 notebooks/             # Jupyter Notebooks for analysis  
-│── 📁 models/                # Trained machine learning models  
-│── 📁 visualizations/        # Graphs, heatmaps, and charts  
+│── 
+│── 📁 mxmh_def.ipynb         # Notebooks for analysis 
+│── 📁 final_proj_viz.pbix      # Graphs, heatmaps, and charts  
 │── 📄 requirements.txt       # Python dependencies  
-│── 📄 report.pdf             # Final project report  
+│── 📄 utils.py       		# Python dependencies  
 
 📢 Future Work
 	•	Expand dataset with diverse demographics.
